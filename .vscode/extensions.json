@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "wallabyjs.quokka-vscode",
+    "mscolnick.export-typescript",
+    "orta.vscode-jest",
+    "eamodio.gitlens",
+    "tabnine.tabnine-vscode",
+    "aaron-bond.better-comments",
+    "dbaeumer.vscode-eslint",
+    "iceworks-team.iceworks"
+  ]
+}
